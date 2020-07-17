@@ -1,6 +1,11 @@
 # TimeUnit
 
-**TODO: Add description**
+
+
+```elixir
+iex> TimeUnit.conver(1, :hour, :minute) 
+{:ok, 60.0}
+```
 
 ## Installation
 
